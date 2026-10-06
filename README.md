@@ -1,1 +1,0 @@
-# Java.icecream.company.platform

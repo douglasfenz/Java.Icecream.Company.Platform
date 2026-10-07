@@ -334,7 +334,7 @@ public class Cadastro extends javax.swing.JFrame {
     }                                           
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {                                         
-        cardapio telaCardapio = new cardapio();
+        Cardapio telaCardapio = new Cardapio();
         telaCardapio.setLocation(this.getLocation());
         telaCardapio.setVisible(true);
         this.dispose();

@@ -1,8 +1,8 @@
 package IceDream;
 
-public class cardapio extends javax.swing.JFrame {
+public class Cardapio extends javax.swing.JFrame {
 
-    public cardapio() {
+    public Cardapio() {
         initComponents();
     }
 
